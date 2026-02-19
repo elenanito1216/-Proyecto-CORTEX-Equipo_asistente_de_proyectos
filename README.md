@@ -3,8 +3,8 @@
  ##Mision: Erradicar la ejecución sin propósito. El agente actúa como un "Colador Lógico" que separa las ideas vacías de los proyectos viables.
  
  ##Integrantes:
- -Juan David Sayas Hernández
- -Santiago Gomez Garcia
+ - Juan David Sayas Hernández
+ - Santiago Gomez Garcia
 
 ## **1.PERFIL DEL AGENTE**
 
