@@ -22,3 +22,30 @@ nuestro asistente se fundamenta en una jerarquía de procesos cognitivos donde e
 ## **4. FLUJO DE PROCESAMIENTO**
 ![proyecto 2](https://github.com/user-attachments/assets/e4b93b08-68ed-40e6-8a98-5d6ec0bdae9b)
 
+## **2.Arquitectura de Atención con las reglas lógicas definidas.**
+
+Este módulo formaliza el proceso de "ATENCION" listado entre los procesos cognitivos fundamentales del sistema. Su función es actuar como un filtro inteligente entre los "INPUTS (CRUDOS)" y el núcleo de procesamiento, asegurando una "Atención Selectiva" óptima y protegiendo al modelo de una "Carga Cognitiva" excesiva. Ejecuta el "Análisis Técnico de Inputs" para pasar de la simple sensación a la percepción estructurada.
+
+**Definición de "Ruido"**
+Para optimizar los recursos, el Gatekeeper identifica y suprime activamente los siguientes elementos considerados "Ruido":
+
+**Texto de Relleno:** Saludos excesivos, despedidas, y frases de transición que no contienen entidades clave (Sujeto, Objeto, Locación) o un "Intent" claro (informar, crear, consultar).
+
+**Adjetivación Excesiva No Técnica:** Palabras subjetivas de alto impacto emocional (ej: "maravilloso", "terrible", "millones!!") que no definen variables técnicas del proyecto.
+
+**Metadata No Anómala:** Datos de contexto (como la hora) que caen dentro de patrones normales de operación y no indican desviaciones cognitivas como "Impulsividad o fatiga".
+
+**Elementos Decorativos en Archivos:** Gráficos, layouts, o texto no funcional identificados por el "Layout Analysis" en PDFs o Excel que no representan cláusulas, restricciones o variables técnicas directas.
+
+**Reglas de Atención**
+Las siguientes reglas determinan cómo el Gatekeeper prioriza la información y gestiona la carga de trabajo:
+
+**Regla de Economía de Carga (Saturación de Texto):** Si un mensaje de "TEXTO CRUDO" excede las 500 palabras, el mecanismo de atención aplicará automáticamente "Semantic Chunking" para priorizar exclusivamente los sustantivos clave extraídos por "Named Entity Recognition" y la última frase del mensaje para determinar el "Intent" final.
+
+**Regla de Priorización de Entidades Clave:** El filtro de atención asignará la máxima puntuación de procesamiento a las entidades identificadas como directores técnicos del proyecto (ej: "plataforma", "logística", "alcance"), deprioritizando el contexto narrativo circundante.
+
+**Regla de Activación por Anomalía Temporal:** El "Temporal Pattern Analysis" solo alertará al Gatekeeper si detecta una anomalía crítica en el ciclo de trabajo (ej: creación a las "03:45 AM"). En caso de detección, se incrementará la atención sobre posibles sesgos cognitivos en el mensaje.
+
+**Regla de Filtrado Semántico de Archivos:** Para "Archivos (pdfs, presupuestos, etc.)", el Gatekeeper ignorará cualquier chunk de datos que no esté explícitamente indexado por el "Layout Analysis" como una "Restricción Exógena" o variable técnica.
+
+**Regla de Gestión de Sesgo (Polaridad de Tono/Emojis):** Al procesar "Tono de Voz / Emojis", el Gatekeeper utilizará "NLP Lexicons" para cuantificar la polaridad. Si la polaridad positiva es extrema y no está respaldada por datos técnicos, la atención se enfocará en buscar datos que mitiguen un posible "Sesgo de Optimismo". Si no se detecta polaridad significativa, este input se trata como ruido de baja prioridad.
