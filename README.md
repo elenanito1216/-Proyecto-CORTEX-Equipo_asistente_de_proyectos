@@ -19,3 +19,6 @@ nuestro asistente se fundamenta en una jerarquía de procesos cognitivos donde e
 ## **3.BRAINSTORMING**
 ![proyecto](https://github.com/user-attachments/assets/a7d3bec0-7f94-4e3e-9944-14ead6a7f659)
 
+## **4. FLUJO DE PROCESAMIENTO
+![proyecto 2](https://github.com/user-attachments/assets/e4b93b08-68ed-40e6-8a98-5d6ec0bdae9b)
+
