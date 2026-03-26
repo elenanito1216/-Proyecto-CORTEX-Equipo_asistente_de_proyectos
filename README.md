@@ -54,7 +54,7 @@ Las siguientes reglas determinan cómo el Gatekeeper prioriza la información y 
 
 ## **3. Arquitectura de Memoria**
 
-### 🗄️ Estructura de la Base de Conocimiento (Memoria Semántica)
+Estructura de la Base de Conocimiento
 
 Esta tabla representa las "carpetas" lógicas que el bot consulta permanentemente para validar la viabilidad de los proyectos y alimentar el Grafo de Conocimiento.
 
