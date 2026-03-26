@@ -66,3 +66,5 @@ Esta tabla representa las "carpetas" lógicas que el bot consulta permanentement
 | **Logística y Operaciones** | **Semántica (Procedimental)** | Flujos de trabajo, métodos de pago a terceros (por pedido/turno) y gestión de última milla. | Asegura que el usuario haya definido el "Cómo" operativo antes de avanzar a la ejecución. |
 | **Diccionario de Sesgos** | **Semántica (Largo Plazo)** | NLP Lexicons para medir polaridad y patrones de conducta impulsiva o fatiga. | Permite al "Análisis Técnico de Inputs" detectar estados mentales anómalos según la "Meta data de hora". |
 | **Contexto de Sesión** | **Episódica (Corto Plazo)** | Historial de contradicciones, decisiones previas del usuario y datos suministrados en el chat actual. | Mantiene la coherencia del hilo lógico y activa el "Reto Lógico" ante cambios repentinos en la afirmación. |
+
+## **La RAM Cognitiva**
