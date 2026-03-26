@@ -60,7 +60,7 @@ Esta tabla representa las "carpetas" lógicas que el bot consulta permanentement
 
 | Categoría de Información | Tipo de Memoria | Descripción del Contenido | Función en la Validación |
 | :--- | :--- | :--- | :--- |
-| **Marco Legal y Normativo** | **Semántica (Largo Plazo)** | Reglamentos técnicos, leyes de protección de datos y normativas institucionales (ej: Reglamento UIS). | Identifica "Restricciones Exógenas" que pueden invalidar la idea por incumplimiento de normas. |
+| **Marco Legal y Normativo** | **Semántica (Largo Plazo)** | Reglamentos técnicos, leyes de protección de datos y normativas institucionales. | Identifica "Restricciones Exógenas" que pueden invalidar la idea por incumplimiento de normas. |
 | **Ingeniería Financiera** | **Semántica (Procedimental)** | Fórmulas de rentabilidad, estructuras de costos (fijos/variables) y modelos de monetización. | Mitiga el "Sesgo de Optimismo" exigiendo cifras reales sobre "oxígeno (dinero)" para aguantar. |
 | **Arquitectura Tecnológica** | **Semántica (Largo Plazo)** | Stacks de desarrollo, capacidades de servidores, APIs y limitaciones de plataformas (App/Web). | Valida si la "Entidad: Logística/Plataforma" seleccionada es técnicamente coherente con el "Alcance". |
 | **Logística y Operaciones** | **Semántica (Procedimental)** | Flujos de trabajo, métodos de pago a terceros (por pedido/turno) y gestión de última milla. | Asegura que el usuario haya definido el "Cómo" operativo antes de avanzar a la ejecución. |
