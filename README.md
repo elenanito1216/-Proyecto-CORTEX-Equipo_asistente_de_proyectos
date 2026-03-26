@@ -53,3 +53,16 @@ Las siguientes reglas determinan cómo el Gatekeeper prioriza la información y 
 # **FASE 3**
 
 ## **3. Arquitectura de Memoria**
+
+### 🗄️ Estructura de la Base de Conocimiento (Memoria Semántica)
+
+Esta tabla representa las "carpetas" lógicas que el bot consulta permanentemente para validar la viabilidad de los proyectos y alimentar el Grafo de Conocimiento.
+
+| Categoría de Memoria | Descripción del Contenido | Ejemplo de Datos Indexados | Función en la Validación |
+| :--- | :--- | :--- | :--- |
+| **Marco Legal y Normativo** | Reglamentos y restricciones legales vigentes. | Reglamento de Ventas UIS, Habeas Data, Normas de Sanidad. | Identifica "Restricciones Exógenas" que pueden detener el avance del proyecto. |
+| **Ingeniería Financiera** | Fórmulas y modelos de sostenibilidad económica. | CAC (Costo de Adquisición), LTV, Punto de Equilibrio. | Detecta "Sesgos de Optimismo" al contrastar la idea con la realidad financiera. |
+| **Arquitectura Tecnológica** | Catálogo de herramientas y stacks de desarrollo. | AWS, Firebase, Flutter, APIs de Geolocalización. | Valida si la "Entidad: Plataforma" elegida es técnicamente coherente con el alcance. |
+| **Logística y Operaciones** | Modelos de flujo de trabajo y gestión de recursos. | Gestión de última milla, Algoritmos de despacho, Tipos de pago. | Verifica la coherencia operativa (ej. "¿Cómo les vas a pagar a los domiciliarios?"). |
+| **Psicología y Sesgos** | Diccionarios de polaridad y patrones conductuales. | NLP Lexicons, Lista de Sesgos Cognitivos, Indicadores de Fatiga. | Permite al "Análisis Técnico de Inputs" detectar estados de impulsividad o exceso de confianza. |
+| **Benchmarks de Mercado** | Datos de referencia y modelos de monetización. | Estructuras de costos de competencia, tasas de conversión estándar. | Sirve de base para que el bot exija definiciones claras sobre la ventaja competitiva. |
