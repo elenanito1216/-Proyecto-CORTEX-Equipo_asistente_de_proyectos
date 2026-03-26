@@ -49,3 +49,5 @@ Las siguientes reglas determinan cómo el Gatekeeper prioriza la información y 
 **Regla de Filtrado Semántico de Archivos:** Para "Archivos (pdfs, presupuestos, etc.)", el Gatekeeper ignorará cualquier chunk de datos que no esté explícitamente indexado por el "Layout Analysis" como una "Restricción Exógena" o variable técnica.
 
 **Regla de Gestión de Sesgo (Polaridad de Tono/Emojis):** Al procesar "Tono de Voz / Emojis", el Gatekeeper utilizará "NLP Lexicons" para cuantificar la polaridad. Si la polaridad positiva es extrema y no está respaldada por datos técnicos, la atención se enfocará en buscar datos que mitiguen un posible "Sesgo de Optimismo". Si no se detecta polaridad significativa, este input se trata como ruido de baja prioridad.
+
+# **FASE 3**
