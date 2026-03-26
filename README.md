@@ -58,11 +58,11 @@ Estructura de la Base de Conocimiento
 
 Esta tabla representa las "carpetas" lógicas que el bot consulta permanentemente para validar la viabilidad de los proyectos y alimentar el Grafo de Conocimiento.
 
-| Categoría de Memoria | Descripción del Contenido | Ejemplo de Datos Indexados | Función en la Validación |
+| Categoría de Información | Tipo de Memoria | Descripción del Contenido | Función en la Validación |
 | :--- | :--- | :--- | :--- |
-| **Marco Legal y Normativo** | Reglamentos y restricciones legales vigentes. | Reglamento de Ventas UIS, Habeas Data, Normas de Sanidad. | Identifica "Restricciones Exógenas" que pueden detener el avance del proyecto. |
-| **Ingeniería Financiera** | Fórmulas y modelos de sostenibilidad económica. | CAC (Costo de Adquisición), LTV, Punto de Equilibrio. | Detecta "Sesgos de Optimismo" al contrastar la idea con la realidad financiera. |
-| **Arquitectura Tecnológica** | Catálogo de herramientas y stacks de desarrollo. | AWS, Firebase, Flutter, APIs de Geolocalización. | Valida si la "Entidad: Plataforma" elegida es técnicamente coherente con el alcance. |
-| **Logística y Operaciones** | Modelos de flujo de trabajo y gestión de recursos. | Gestión de última milla, Algoritmos de despacho, Tipos de pago. | Verifica la coherencia operativa (ej. "¿Cómo les vas a pagar a los domiciliarios?"). |
-| **Psicología y Sesgos** | Diccionarios de polaridad y patrones conductuales. | NLP Lexicons, Lista de Sesgos Cognitivos, Indicadores de Fatiga. | Permite al "Análisis Técnico de Inputs" detectar estados de impulsividad o exceso de confianza. |
-| **Benchmarks de Mercado** | Datos de referencia y modelos de monetización. | Estructuras de costos de competencia, tasas de conversión estándar. | Sirve de base para que el bot exija definiciones claras sobre la ventaja competitiva. |
+| **Marco Legal y Normativo** | **Semántica (Largo Plazo)** | Reglamentos técnicos, leyes de protección de datos y normativas institucionales (ej: Reglamento UIS). | Identifica "Restricciones Exógenas" que pueden invalidar la idea por incumplimiento de normas. |
+| **Ingeniería Financiera** | **Semántica (Procedimental)** | Fórmulas de rentabilidad, estructuras de costos (fijos/variables) y modelos de monetización. | Mitiga el "Sesgo de Optimismo" exigiendo cifras reales sobre "oxígeno (dinero)" para aguantar. |
+| **Arquitectura Tecnológica** | **Semántica (Largo Plazo)** | Stacks de desarrollo, capacidades de servidores, APIs y limitaciones de plataformas (App/Web). | Valida si la "Entidad: Logística/Plataforma" seleccionada es técnicamente coherente con el "Alcance". |
+| **Logística y Operaciones** | **Semántica (Procedimental)** | Flujos de trabajo, métodos de pago a terceros (por pedido/turno) y gestión de última milla. | Asegura que el usuario haya definido el "Cómo" operativo antes de avanzar a la ejecución. |
+| **Diccionario de Sesgos** | **Semántica (Largo Plazo)** | NLP Lexicons para medir polaridad y patrones de conducta impulsiva o fatiga. | Permite al "Análisis Técnico de Inputs" detectar estados mentales anómalos según la "Meta data de hora". |
+| **Contexto de Sesión** | **Episódica (Corto Plazo)** | Historial de contradicciones, decisiones previas del usuario y datos suministrados en el chat actual. | Mantiene la coherencia del hilo lógico y activa el "Reto Lógico" ante cambios repentinos en la afirmación. |
