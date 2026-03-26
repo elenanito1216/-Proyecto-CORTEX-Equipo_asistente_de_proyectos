@@ -68,3 +68,10 @@ Esta tabla representa las "carpetas" lógicas que el bot consulta permanentement
 | **Contexto de Sesión** | **Episódica (Corto Plazo)** | Historial de contradicciones, decisiones previas del usuario y datos suministrados en el chat actual. | Mantiene la coherencia del hilo lógico y activa el "Reto Lógico" ante cambios repentinos en la afirmación. |
 
 ## **La RAM Cognitiva**
+
+<img width="1603" height="543" alt="image" src="https://github.com/user-attachments/assets/fee9a8cb-779e-448a-afd9-148ee0d3ea91" />
+
+1) Primero tenemos el embudo, donde entra la informacion que da el usuario, y se filtra todo ( segun los mecanismos de analisis de los inputs)
+2) Esa informacion filtrada pasa a la ram, donde se divide en en los slots segun su importancia, la informacion importante pasa a los slots activo, y la informacion menos importante pasa a los slots con riesgo de olvido
+3) La informacion que esta en los slots con riesgo de olvido, se borra para ahorrar espacio en la ram (cognitiva)
+
