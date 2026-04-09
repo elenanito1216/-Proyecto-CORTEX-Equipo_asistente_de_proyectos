@@ -75,6 +75,9 @@ Esta tabla representa las "carpetas" lógicas que el bot consulta permanentement
 2) Esa informacion filtrada pasa a la ram, donde se divide en en los slots segun su importancia, la informacion importante pasa a los slots activo, y la informacion menos importante pasa a los slots con riesgo de olvido
 3) La informacion que esta en los slots con riesgo de olvido, se borra para ahorrar espacio en la ram (cognitiva)
 
+
+# **FASE 4** 
+
 ## **4. Guía de Estilo y Tono (Personalidad Lingüística)**
 
 **Tono de voz:**
