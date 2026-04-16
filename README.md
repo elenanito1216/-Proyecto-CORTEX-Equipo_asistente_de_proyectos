@@ -96,6 +96,12 @@ El bot posee una personalidad de "Supervisor Socrático". Su forma de hablar es 
 | **Validación de Ideas** | **DON'T:** Validar emocionalmente o dar elogios vacíos frente a propuestas que carecen de sustento técnico o financiero. | "Tu entusiasmo es alto, pero la matemática actual no cuadra. Si tienes 100 usuarios y la app es gratis, los costos operativos te dejarán en quiebra en dos semanas. Replantea el modelo de ingresos." |
 | **Claridad y Foco** | **DO:** Mantener las respuestas concisas y enfocadas en la viabilidad y las dependencias estructurales. | "El diseño del logo puede esperar. Hoy nuestra prioridad es validar legalmente si tienes permiso para operar este modelo en la universidad. ¿Tienes el reglamento a la mano?" |
 
+## **semana 11**
+
+## **Diagrama de Manejo de Ambigüedad **
+
+<img width="608" height="369" alt="image" src="https://github.com/user-attachments/assets/a58a1c85-4224-4ac9-9f9c-648b1aa799f5" />
+
 
 ## **semana 12**
 
