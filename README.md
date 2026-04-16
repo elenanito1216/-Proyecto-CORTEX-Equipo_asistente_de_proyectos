@@ -100,7 +100,7 @@ El bot posee una personalidad de "Supervisor Socrático". Su forma de hablar es 
 
 ## **Semana 11**
 
-## **Diagrama de Manejo de Ambigüedad **
+## Diagrama de Manejo de Ambigüedad 
 
 <img width="1128" height="885" alt="proyecto" src="https://github.com/user-attachments/assets/389856ec-b47e-498e-97e7-5fc26db9beed" />
 
