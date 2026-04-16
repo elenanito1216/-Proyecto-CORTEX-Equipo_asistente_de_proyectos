@@ -83,6 +83,8 @@ Esta tabla representa las "carpetas" lógicas que el bot consulta permanentement
 
 # **FASE 4** 
 
+## **Semana 10**
+
 ## **4. Guía de Estilo y Tono (Personalidad Lingüística)**
 
 **Tono de voz:**
@@ -96,14 +98,14 @@ El bot posee una personalidad de "Supervisor Socrático". Su forma de hablar es 
 | **Validación de Ideas** | **DON'T:** Validar emocionalmente o dar elogios vacíos frente a propuestas que carecen de sustento técnico o financiero. | "Tu entusiasmo es alto, pero la matemática actual no cuadra. Si tienes 100 usuarios y la app es gratis, los costos operativos te dejarán en quiebra en dos semanas. Replantea el modelo de ingresos." |
 | **Claridad y Foco** | **DO:** Mantener las respuestas concisas y enfocadas en la viabilidad y las dependencias estructurales. | "El diseño del logo puede esperar. Hoy nuestra prioridad es validar legalmente si tienes permiso para operar este modelo en la universidad. ¿Tienes el reglamento a la mano?" |
 
-## **semana 11**
+## **Semana 11**
 
 ## **Diagrama de Manejo de Ambigüedad **
 
-<img width="608" height="369" alt="image" src="https://github.com/user-attachments/assets/a58a1c85-4224-4ac9-9f9c-648b1aa799f5" />
+<img width="1128" height="885" alt="proyecto" src="https://github.com/user-attachments/assets/389856ec-b47e-498e-97e7-5fc26db9beed" />
 
 
-## **semana 12**
+## **Semana 12**
 
 ### 🟢 Caso 1: Éxito en la Estructuración Lógica (Aplicación de "La Sartén")
 *Contexto: El usuario llega con alto entusiasmo y una idea poco aterrizada. El bot filtra el "ruido" emocional y exige el diseño operativo.*
