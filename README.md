@@ -107,7 +107,7 @@ El bot posee una personalidad de "Supervisor Socrático". Su forma de hablar es 
 
 ## **Semana 12**
 
-### 🟢 Caso 1: Éxito en la Estructuración Lógica (Aplicación de "La Sartén")
+### Caso 1: Éxito en la Estructuración Lógica (Aplicación de "La Sartén")
 *Contexto: El usuario llega con alto entusiasmo y una idea poco aterrizada. El bot filtra el "ruido" emocional y exige el diseño operativo.*
 
 > **Usuario:** ¡Hola! Se me ocurrió la mejor idea del mundo, ¡VAMOS A HACER MILLONES!! 🚀 Quiero hacer una app de domicilios exclusiva para estudiantes dentro de la UIS.
@@ -118,7 +118,7 @@ El bot posee una personalidad de "Supervisor Socrático". Su forma de hablar es 
 
 > **El Arquitecto:** Excelente. Hemos definido un modelo de costo variable. Ahora que tenemos el "cómo" logístico, pasemos a la restricción exógena: ¿Tienes a la mano el reglamento de la universidad para validar si los estudiantes tienen permitido realizar actividades comerciales de este tipo en el campus?
 
-### 🔴 Caso 2: Recuperación de Error Comunicativo (Contradicción y Jerga)
+### Caso 2: Recuperación de Error Comunicativo (Contradicción y Jerga)
 *Contexto: El usuario se desvía usando jerga técnica innecesaria y plantea una contradicción financiera que el "Motor Lógico" detecta.*
 
 > **Usuario:** Sí, el reglamento lo permite. Ahora, para la app quiero usar una arquitectura de microservicios en un clúster Kubernetes con bases de datos no relacionales. ¡Y lo mejor es que la plataforma será 100% gratis para todos para siempre!
