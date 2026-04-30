@@ -129,7 +129,24 @@ El bot posee una personalidad de "Supervisor Socrático". Su forma de hablar es 
 
 > **El Arquitecto:** Mucho mejor. Desarrollar esta plataforma sin definir el modelo de monetización es como construir un edificio sin calcular los cimientos. Ahora tenemos un modelo B2B (comisión a restaurantes) que justifica la inversión técnica. Procedamos a calcular tu punto de equilibrio.
 
+# **FASE 5** 
 
+## **Semana 13**
 
+<img width="915" height="1092" alt="proyecto" src="https://github.com/user-attachments/assets/fb6a6b2c-2ab5-4ee5-ad19-af0b8c78ca67" />
+El diagrama representa nuestro Árbol de la Verdad. A diferencia de una conversación lineal, este algoritmo utiliza lógica condicional estricta (IF-THEN-ELSE). La arquitectura asegura que el agente no actúe como un generador de texto pasivo, sino como un filtro de ingeniería: si una condición técnica o legal no se cumple (IF = NO), el sistema activa un bucle de retroalimentación o un bloqueo total, impidiendo que el usuario progrese hacia una ejecución fallida.  Este diseño protege la Carga Cognitiva del sistema al no procesar detalles secundarios hasta que los cimientos estructurales estén validados. 
 
+## **Semana 14**
 
+En Checkmate, reconocemos que tanto los usuarios como los modelos de lenguaje pueden ser víctimas de "atajos mentales" que nublan el juicio técnico.  
+
+1. Sesgo Identificado: Sesgo de Optimismo (The Optimism Bias)
+Este sesgo lleva a los emprendedores a sobreestimar los beneficios y subestimar los costos y riesgos de sus proyectos. Es el "Bug Humano" más común que El Arquitecto debe neutralizar para evitar ejecuciones ciegas.  
+
+2. Contra-Medida Lógica: "El Abogado del Diablo Algorítmico"
+Para mitigar el optimismo ciego, nuestro algoritmo tiene programada la siguiente Regla de Seguridad:  
+
+Regla Anti-Sesgo 01: "Antes de validar cualquier modelo de ingresos exitoso, el sistema está obligado a generar 2 escenarios de estrés crítico (ej. pérdida del 50% de usuarios o aumento del 30% en costos operativos). El usuario DEBE definir un plan de contingencia para ambos escenarios antes de que el bot emita un juicio de viabilidad positivo".  
+
+3. Sistema 1 vs. Sistema 2
+Checkmate está diseñado para forzar al usuario a salir del Sistema 1 (pensamiento rápido, intuitivo y emocional) y entrar en el Sistema 2 (pensamiento lento, analítico y esforzado) mediante la entrega de plantillas vacías y preguntas de validación métrica.
