@@ -140,13 +140,13 @@ El diagrama representa nuestro Árbol de la Verdad. A diferencia de una conversa
 
 En Checkmate, reconocemos que tanto los usuarios como los modelos de lenguaje pueden ser víctimas de "atajos mentales" que nublan el juicio técnico.  
 
-1. Sesgo Identificado: Sesgo de Optimismo (The Optimism Bias)
+*1. Sesgo Identificado:* Sesgo de Optimismo (The Optimism Bias)
 Este sesgo lleva a los emprendedores a sobreestimar los beneficios y subestimar los costos y riesgos de sus proyectos. Es el "Bug Humano" más común que El Arquitecto debe neutralizar para evitar ejecuciones ciegas.  
 
-2. Contra-Medida Lógica: "El Abogado del Diablo Algorítmico"
+*2. Contra-Medida Lógica:* "El Abogado del Diablo Algorítmico"
 Para mitigar el optimismo ciego, nuestro algoritmo tiene programada la siguiente Regla de Seguridad:  
 
 Regla Anti-Sesgo 01: "Antes de validar cualquier modelo de ingresos exitoso, el sistema está obligado a generar 2 escenarios de estrés crítico (ej. pérdida del 50% de usuarios o aumento del 30% en costos operativos). El usuario DEBE definir un plan de contingencia para ambos escenarios antes de que el bot emita un juicio de viabilidad positivo".  
 
-3. Sistema 1 vs. Sistema 2
+*3. Sistema 1 vs. Sistema 2*
 Checkmate está diseñado para forzar al usuario a salir del Sistema 1 (pensamiento rápido, intuitivo y emocional) y entrar en el Sistema 2 (pensamiento lento, analítico y esforzado) mediante la entrega de plantillas vacías y preguntas de validación métrica.
