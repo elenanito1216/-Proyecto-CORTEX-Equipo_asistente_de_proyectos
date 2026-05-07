@@ -154,6 +154,7 @@ Checkmate está diseñado para forzar al usuario a salir del Sistema 1 (pensamie
 ## **Semana 15**
 
 <img width="695" height="1438" alt="proyecto (3)" src="https://github.com/user-attachments/assets/41af601e-a4d2-4e24-8797-a29c7c63c6ba" />
+
 **Punto de Conflicto:** El usuario intentó saltarse la validación legal usando un producto restringido.  
 
 **Bug Detectado:** En la versión anterior, el bot simplemente decía "No se puede".Solución 
