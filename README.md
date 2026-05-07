@@ -150,3 +150,14 @@ Regla Anti-Sesgo 01: "Antes de validar cualquier modelo de ingresos exitoso, el 
 
 **3. Sistema 1 vs. Sistema 2**
 Checkmate está diseñado para forzar al usuario a salir del Sistema 1 (pensamiento rápido, intuitivo y emocional) y entrar en el Sistema 2 (pensamiento lento, analítico y esforzado) mediante la entrega de plantillas vacías y preguntas de validación métrica.
+
+## **Semana 15**
+
+<img width="695" height="1438" alt="proyecto (3)" src="https://github.com/user-attachments/assets/41af601e-a4d2-4e24-8797-a29c7c63c6ba" />
+**Punto de Conflicto:** El usuario intentó saltarse la validación legal usando un producto restringido.  
+
+**Bug Detectado:** En la versión anterior, el bot simplemente decía "No se puede".Solución 
+
+**(Rama Corregida):** Se implementó una rama de "Pivotaje Guiado". Ahora, si el bot detecta una inviabilidad, no llega a un callejón sin salida; en su lugar, lanza una contra-propuesta técnica para que el usuario ajuste su modelo de negocio y vuelva al flujo principal. 
+
+**Resultado del Dry Run:** El sistema Sistema 2 (analítico) forzó al usuario a abandonar una idea de alto riesgo por una de viabilidad técnica comprobada.  
