@@ -177,9 +177,9 @@ Checkmate se enfrenta a dos fuerzas opuestas durante su conversación con el usu
 
 Nuestra IA prioriza el **Rigor Técnico** sobre la **Velocidad de Cierre o la Complacencia Emocional**. Sin embargo, para evitar un bucle de frustración destructivo, implementa la siguiente regla lógica de control:
 
-```text
 SI (Indice_de_Frustracion_Usuario es MAYOR al 70 por ciento)
 Y (Nivel_de_Esfuerzo_Usuario es ALTO)
+
 ENTONCES:
     El agente reducira temporalmente la dificultad del "Reto Lógico".
     Activara el "Modo Co-Piloto" (ofreciendo una analogia estructural o una plantilla de ejemplo).
@@ -189,3 +189,6 @@ SINO:
     Bloquear el avance del roadmap hasta solucionar la inconsistencia actual.
 
 Con esta función, el éxito para el agente no se mide en "hacer feliz al usuario diciendo que su idea es maravillosa", sino en **maximizar el número de proyectos validados con bases matemáticas y legales reales**, manteniendo al usuario dentro del flujo sin que desista.
+
+## **Semana 17**
+<img width="685" height="1459" alt="proyecto (4)" src="https://github.com/user-attachments/assets/21b4dfd9-762a-4d15-90ae-f53068c4b57a" />
