@@ -8,23 +8,23 @@
 
 # **FASE 1**
 
-## **1.PERFIL DEL AGENTE**
+## **seamana 2**
 ![proyecto (1)](https://github.com/user-attachments/assets/df86c4ea-f64d-4bd5-a33b-a0a5572129f6)
 
-## **2.RADAR COGNITIVO**
+## **seamana 3**
 ![proyecto  2](https://github.com/user-attachments/assets/ae8ad751-eb05-47f2-8c92-f2c7c1aff5a3)
 
 nuestro asistente se fundamenta en una jerarquía de procesos cognitivos donde el Pensamiento y el Razonamiento (10/10) actúan como el motor central para ejecutar el análisis de dependencias lógicas. Estos procesos se nutren de una Memoria (10/10) semántica y episódica que sostiene el grafo de conocimiento, permitiendo que la IA no solo almacene datos, sino que comprenda las relaciones estructurales entre ellos. Para que esta arquitectura sea funcional, el Procesamiento Lingüístico (9/10) traduce la intención del usuario, mientras que la Atención (8/10) y la Percepción (8/10) filtran los componentes críticos de la idea, ignorando el ruido superficial para centrarse en los vacíos del proyecto. Esta integración de la Cognición (8/10) permite que el sistema mantenga una visión sistémica del desarrollo, apoyándose en un Aprendizaje (7/10) contextual que adapta la lógica de ingeniería a cada caso específico. Finalmente, la Motivación y la Emoción (4/10) se mantienen en una prioridad baja, interviniendo únicamente para regular la interacción humana y evitar la frustración, asegurando que el rigor técnico del razonamiento prevalezca siempre sobre la complacencia emocional.
 
 # **FASE 2**
 
-## **3.BRAINSTORMING**
+## **seamana 4**
 ![proyecto](https://github.com/user-attachments/assets/a7d3bec0-7f94-4e3e-9944-14ead6a7f659)
 
-## **4. FLUJO DE PROCESAMIENTO**
+## **seamana 5**
 ![proyecto 2](https://github.com/user-attachments/assets/e4b93b08-68ed-40e6-8a98-5d6ec0bdae9b)
 
-## **2.Arquitectura de Atención con las reglas lógicas definidas.**
+## **seamana 6**
 
 Este módulo formaliza el proceso de "ATENCION" listado entre los procesos cognitivos fundamentales del sistema. Su función es actuar como un filtro inteligente entre los "INPUTS (CRUDOS)" y el núcleo de procesamiento, asegurando una "Atención Selectiva" óptima y protegiendo al modelo de una "Carga Cognitiva" excesiva. Ejecuta el "Análisis Técnico de Inputs" para pasar de la simple sensación a la percepción estructurada.
 
@@ -54,7 +54,7 @@ Las siguientes reglas determinan cómo el Gatekeeper prioriza la información y 
 
 # **FASE 3**
 
-## **3. Arquitectura de Memoria**
+## **seamana 7**
 
 Estructura de la Base de Conocimiento
 
@@ -69,7 +69,7 @@ Esta tabla representa las "carpetas" lógicas que el bot consulta permanentement
 | **Diccionario de Sesgos** | **Semántica (Largo Plazo)** | NLP Lexicons para medir polaridad y patrones de conducta impulsiva o fatiga. | Permite al "Análisis Técnico de Inputs" detectar estados mentales anómalos según la "Meta data de hora". |
 | **Contexto de Sesión** | **Episódica (Corto Plazo)** | Historial de contradicciones, decisiones previas del usuario y datos suministrados en el chat actual. | Mantiene la coherencia del hilo lógico y activa el "Reto Lógico" ante cambios repentinos en la afirmación. |
 
-## **La RAM Cognitiva**
+## **seamana 8**
 
 <img width="1603" height="543" alt="image" src="https://github.com/user-attachments/assets/fee9a8cb-779e-448a-afd9-148ee0d3ea91" />
 
@@ -77,15 +77,13 @@ Esta tabla representa las "carpetas" lógicas que el bot consulta permanentement
 2) Esa informacion filtrada pasa a la ram, donde se divide en en los slots segun su importancia, la informacion importante pasa a los slots activo, y la informacion menos importante pasa a los slots con riesgo de olvido
 3) La informacion que esta en los slots con riesgo de olvido, se borra para ahorrar espacio en la ram (cognitiva)
 
-## **El Bibliotecario**
+## **seamana 9**
 
 ![proyecto](https://github.com/user-attachments/assets/6684d534-52ef-46c6-ad45-2dbe51b3c80a)
 
 # **FASE 4** 
 
 ## **Semana 10**
-
-## **4. Guía de Estilo y Tono (Personalidad Lingüística)**
 
 **Tono de voz:**
 El bot posee una personalidad de "Supervisor Socrático". Su forma de hablar es directa, analítica y desafiante. No busca ser complaciente ni actuar como un asistente tradicional; su objetivo es cuestionar la viabilidad de las ideas del usuario obligándolo a pensar de forma estructurada. 
