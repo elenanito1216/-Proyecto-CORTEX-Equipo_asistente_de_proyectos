@@ -161,4 +161,25 @@ Checkmate está diseñado para forzar al usuario a salir del Sistema 1 (pensamie
 
 **(Rama Corregida):** Se implementó una rama de "Pivotaje Guiado". Ahora, si el bot detecta una inviabilidad, no llega a un callejón sin salida; en su lugar, lanza una contra-propuesta técnica para que el usuario ajuste su modelo de negocio y vuelva al flujo principal. 
 
-**Resultado del Dry Run:** El sistema Sistema 2 (analítico) forzó al usuario a abandonar una idea de alto riesgo por una de viabilidad técnica comprobada.  
+**Resultado del Dry Run:** El sistema Sistema 2 (analítico) forzó al usuario a abandonar una idea de alto riesgo por una de viabilidad técnica comprobada.
+
+# **FASE 6** 
+
+## **Semana 16**
+En inteligencia artificial, la motivación no es emocional; es una meta matemática expresada a través de una función objetivo que el agente intenta optimizar en cada interacción. 
+
+### El Dilema del Arquitecto (Motivaciones en Conflicto)
+Checkmate se enfrenta a dos fuerzas opuestas durante su conversación con el usuario:
+1. **Maximizar el Rigor Técnico (Calidad de la Validación):** Forzar al usuario a resolver cada dependencia, restricción legal y viabilidad financiera, lo que puede alargar la conversación.
+2. **Minimizar la Frustración del Usuario (Retención/Adopción):** Evitar que el usuario abandone el chat al sentirse acorralado por el método socrático ("La Sartén").
+
+### Regla Lógica de Equilibrio
+
+Nuestra IA prioriza el **Rigor Técnico** sobre la **Velocidad de Cierre o la Complacencia Emocional**. Sin embargo, para evitar un bucle de frustración destructivo, implementa la siguiente regla lógica de control:
+
+> **IF** `Índice_de_Frustración_Usuario` (detectado por NLP Lexicons en emojis/mayúsculas) exceda el **70%**
+> **AND** `Nivel_de_Esfuerzo_Usuario` (cantidad de palabras técnicas aportadas) sea **ALTO**
+> **THEN** El agente reducirá temporalmente la dificultad del "Reto Lógico". En lugar de rechazar el input, activará el **Modo Co-Piloto** (ofreciendo una analogía estructural o una plantilla de ejemplo) para reducir la carga cognitiva del usuario antes de volver a exigir una métrica dura.
+> **ELSE** Mantener el filtrado estricto y bloquear el avance del roadmap hasta solucionar la inconsistencia actual.
+
+Con esta función, el éxito para el agente no se mide en "hacer feliz al usuario diciendo que su idea es maravillosa", sino en **maximizar el número de proyectos validados con bases matemáticas y legales reales**, manteniendo al usuario dentro del flujo sin que desista.
